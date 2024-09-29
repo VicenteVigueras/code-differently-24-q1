@@ -4,15 +4,14 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import java.util.Set;
-import org.junit.jupiter.api.Test;
-
 import com.codedifferently.lesson7.mohammedobjects.CPU;
 import com.codedifferently.lesson7.mohammedobjects.GPU;
 import com.codedifferently.lesson7.mohammedobjects.IllegalYearExeption;
 import com.codedifferently.lesson7.mohammedobjects.Part;
 import com.codedifferently.lesson7.mohammedobjects.cpuBrand;
 import com.codedifferently.lesson7.mohammedobjects.portType;
+import java.util.Set;
+import org.junit.jupiter.api.Test;
 
 class ComputerPartsTest {
 
