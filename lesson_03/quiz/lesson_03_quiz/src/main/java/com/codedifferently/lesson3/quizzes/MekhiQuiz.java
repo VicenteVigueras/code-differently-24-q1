@@ -1,4 +1,4 @@
-package com.codedifferently.lesson3;
+package com.codedifferently.lesson3.quizzes;
 
 import com.codedifferently.instructional.quiz.AnswerChoice;
 import com.codedifferently.instructional.quiz.MultipleChoiceQuizQuestion;
