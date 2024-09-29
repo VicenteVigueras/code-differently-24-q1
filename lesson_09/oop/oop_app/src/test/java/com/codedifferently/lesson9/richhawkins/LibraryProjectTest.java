@@ -1,4 +1,4 @@
-package test.java.com.codedifferently.lesson9.richhawkins;
+package com.codedifferently.lesson9.richhawkins;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -6,10 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-import main.java.com.codedifferently.lesson9.richhawkins.AlreadyCheckedOutException;
-import main.java.com.codedifferently.lesson9.richhawkins.Book;
-import main.java.com.codedifferently.lesson9.richhawkins.Library;
-import main.java.com.codedifferently.lesson9.richhawkins.Patron;
 import org.junit.jupiter.api.Test;
 
 public class LibraryProjectTest {

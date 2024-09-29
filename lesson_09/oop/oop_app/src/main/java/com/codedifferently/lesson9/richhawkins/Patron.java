@@ -1,4 +1,4 @@
-package main.java.com.codedifferently.lesson9.richhawkins;
+package com.codedifferently.lesson9.richhawkins;
 
 import java.util.HashSet;
 
