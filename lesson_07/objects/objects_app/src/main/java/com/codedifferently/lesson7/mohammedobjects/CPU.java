@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.mohamedobjects.main;
+package com.codedifferently.lesson7.mohammedobjects;
 
 // CPU is a child class of Part this means that CPU inherits name, releaseYear, and brand
 public class CPU extends Part {

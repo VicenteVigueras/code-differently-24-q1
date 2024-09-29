@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.Jamiralesson7;
+package com.codedifferently.lesson7.jamirabailey;
 
 public class Laptops {
 

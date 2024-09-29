@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.mohamedobjects.main;
+package com.codedifferently.lesson7.mohammedobjects;
 
 import java.util.HashSet;
 import java.util.Set;

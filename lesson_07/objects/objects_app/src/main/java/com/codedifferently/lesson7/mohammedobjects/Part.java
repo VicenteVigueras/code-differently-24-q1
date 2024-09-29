@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.mohamedobjects.main;
+package com.codedifferently.lesson7.mohammedobjects;
 
 public class Part {
   // initialization of member variables for part

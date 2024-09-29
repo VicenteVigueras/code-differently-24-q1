@@ -1,4 +1,4 @@
-package test.java.com.codedifferently.lesson7.jadatvapptest;
+package com.codedifferently.lesson7.jadatvapptest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

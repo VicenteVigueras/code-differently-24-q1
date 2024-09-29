@@ -1,9 +1,9 @@
-package com.codedifferently.lesson7;
+package com.codedifferently.lesson7.jamirabailey;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.codedifferently.lesson7.Jamiralesson7.Laptops;
+
 import org.junit.jupiter.api.Test;
 
 public class LaptopsTest {
