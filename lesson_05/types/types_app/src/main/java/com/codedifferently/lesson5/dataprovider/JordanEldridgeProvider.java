@@ -1,6 +1,5 @@
-package main.java.com.codedifferently.lesson5.dataprovider;
+package com.codedifferently.lesson5.dataprovider;
 
-import com.codedifferently.lesson5.dataprovider.DataProvider;
 import java.util.Map;
 import org.springframework.stereotype.Service;
 
