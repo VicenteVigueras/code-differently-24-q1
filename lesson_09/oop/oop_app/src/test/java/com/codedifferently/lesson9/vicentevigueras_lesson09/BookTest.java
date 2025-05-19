@@ -1,4 +1,4 @@
-package com.codedifferently.lesson9.LibraryManagementSystemTest;
+package com.codedifferently.lesson9.vicentevigueras_lesson09;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
