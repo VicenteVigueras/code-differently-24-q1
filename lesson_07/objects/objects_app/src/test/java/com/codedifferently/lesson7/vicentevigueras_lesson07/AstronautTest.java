@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.SpaceshipTest;
+package com.codedifferently.lesson7.vicentevigueras_lesson07;
 
 public class AstronautTest {
 

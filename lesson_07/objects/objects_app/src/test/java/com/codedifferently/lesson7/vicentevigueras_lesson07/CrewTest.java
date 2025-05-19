@@ -1,7 +1,5 @@
-package com.codedifferently.lesson7.SpaceshipTest;
+package com.codedifferently.lesson7.vicentevigueras_lesson07;
 
-import com.codedifferently.lesson7.vicentevigueras_lesson07.Astronaut;
-import com.codedifferently.lesson7.vicentevigueras_lesson07.Crew;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
