@@ -1,8 +1,9 @@
 package com.codedifferently.lesson7.SpaceshipTest;
 
-import com.codedifferently.lesson7.Spaceship.CommandCenter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import com.codedifferently.lesson7.vicentevigueras_lesson07.CommandCenter;
 
 public class CommandCenterTest {
 

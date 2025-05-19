@@ -1,9 +1,10 @@
 package com.codedifferently.lesson7.SpaceshipTest;
 
-import com.codedifferently.lesson7.Spaceship.Astronaut;
-import com.codedifferently.lesson7.Spaceship.Crew;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import com.codedifferently.lesson7.vicentevigueras_lesson07.Astronaut;
+import com.codedifferently.lesson7.vicentevigueras_lesson07.Crew;
 
 public class CrewTest {
   @Test

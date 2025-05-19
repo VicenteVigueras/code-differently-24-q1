@@ -1,4 +1,4 @@
-package com.codedifferently.lesson7.Spaceship;
+package com.codedifferently.lesson7.vicentevigueras_lesson07;
 
 import java.util.ArrayList;
 import java.util.List;

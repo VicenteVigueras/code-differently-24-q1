@@ -3,10 +3,11 @@ package com.codedifferently.lesson7.SpaceshipTest;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import com.codedifferently.lesson7.Spaceship.Crew;
-import com.codedifferently.lesson7.Spaceship.CrewSizeException;
-import com.codedifferently.lesson7.Spaceship.Spaceship;
 import org.junit.jupiter.api.Test;
+
+import com.codedifferently.lesson7.vicentevigueras_lesson07.Crew;
+import com.codedifferently.lesson7.vicentevigueras_lesson07.CrewSizeException;
+import com.codedifferently.lesson7.vicentevigueras_lesson07.Spaceship;
 
 public class SpaceshipTest {
 
