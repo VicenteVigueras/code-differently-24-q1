@@ -1,4 +1,4 @@
-package com.codedifferently.lesson12.factory.vicentevigueras;
+package com.codedifferently.lesson12.factory.vicentevigueras_lesson12;
 
 import com.codedifferently.lesson12.factory.LibraryCsvDataLoader;
 import com.codedifferently.lesson12.models.CheckoutModel;
