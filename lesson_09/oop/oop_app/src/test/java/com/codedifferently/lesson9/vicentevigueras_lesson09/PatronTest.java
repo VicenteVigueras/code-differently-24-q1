@@ -6,9 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Patron;
-
 /** Test class for Patron class. */
 public class PatronTest {
 

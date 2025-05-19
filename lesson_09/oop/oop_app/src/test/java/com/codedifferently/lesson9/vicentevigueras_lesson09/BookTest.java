@@ -4,8 +4,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
-
 /** Test class for the {@link com.codedifferently.lesson9.vicentevigueras_lesson09.Book} class. */
 public class BookTest {
 

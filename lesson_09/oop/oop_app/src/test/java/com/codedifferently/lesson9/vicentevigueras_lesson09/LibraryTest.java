@@ -8,10 +8,6 @@ import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Library;
-import com.codedifferently.lesson9.vicentevigueras_lesson09.Patron;
-
 public class LibraryTest {
   private Library library;
   private Book book;
