@@ -4,9 +4,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.codedifferently.lesson9.LibraryManagementSystem.Book;
-import com.codedifferently.lesson9.LibraryManagementSystem.Patron;
 import org.junit.jupiter.api.Test;
+
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Patron;
 
 /** Test class for Patron class. */
 public class PatronTest {

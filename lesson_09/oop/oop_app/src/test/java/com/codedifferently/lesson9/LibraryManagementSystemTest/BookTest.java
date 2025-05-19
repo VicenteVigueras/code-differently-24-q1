@@ -2,10 +2,11 @@ package com.codedifferently.lesson9.LibraryManagementSystemTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.codedifferently.lesson9.LibraryManagementSystem.Book;
 import org.junit.jupiter.api.Test;
 
-/** Test class for the {@link com.codedifferently.lesson9.LibraryManagementSystem.Book} class. */
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
+
+/** Test class for the {@link com.codedifferently.lesson9.vicentevigueras_lesson09.Book} class. */
 public class BookTest {
 
   /** Test the constructor of the Book class. */

@@ -1,4 +1,4 @@
-package com.codedifferently.lesson9.LibraryManagementSystem;
+package com.codedifferently.lesson9.vicentevigueras_lesson09;
 
 /** Represents a book in the library. */
 public class Book {

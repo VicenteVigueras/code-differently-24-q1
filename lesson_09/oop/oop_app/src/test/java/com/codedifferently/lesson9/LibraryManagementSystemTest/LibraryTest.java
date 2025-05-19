@@ -4,12 +4,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.codedifferently.lesson9.LibraryManagementSystem.Book;
-import com.codedifferently.lesson9.LibraryManagementSystem.Library;
-import com.codedifferently.lesson9.LibraryManagementSystem.Patron;
 import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Book;
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Library;
+import com.codedifferently.lesson9.vicentevigueras_lesson09.Patron;
 
 public class LibraryTest {
   private Library library;
